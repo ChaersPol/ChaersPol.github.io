@@ -41,6 +41,6 @@ PPT 35￥，任务书 35￥、开题报告 65￥，论文 100￥
  | QQ | QQ群 |
 |--|--|--|
 | 674456564 | 1058861570 |
-| ![QQ](../images/image.png) | ![QQ群](../images/image-1.png) |
+| ![QQ](/img/contact/image.png) | ![QQ群](/img/contact/image-1.png) |
 
 — ChaersPol源码库,全栈,专注计算机课设、毕设源码开发
