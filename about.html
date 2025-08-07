@@ -1,13 +1,12 @@
 ---
 layout: page
 title: "关于我"
-description: "「他单纯只想把日子过得不浪费」"
+description: "「敢为人先，爱拼会赢」"
 header-img: "img/bg-me-2022.jpg"
 header-mask: 0.3
 multilingual: true
 ---
 
-{% include multilingual-sel.html %}
 
 <!-- Chinese Version -->
 <div class="zh post-container">
@@ -15,11 +14,6 @@ multilingual: true
     {{ about_zh | markdownify }}
 </div>
 
-<!-- English Version -->
-<div class="en post-container">
-    {% capture about_en %}{% include about/en.md %}{% endcapture %}
-    {{ about_en | markdownify }}
-</div>
 
 
 {% if site.disqus_username %}
